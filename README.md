@@ -1,0 +1,1 @@
+Optimiser is a multi-file console based project designed for Windows 32-bit/64-bit. This project optimise your computer loading time. To start it on full-option mode, just start all 5 executables and wait for them to close automatically. Thank you for using my software! Good luck!
