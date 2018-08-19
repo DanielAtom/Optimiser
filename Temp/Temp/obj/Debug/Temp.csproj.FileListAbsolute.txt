@@ -1,0 +1,7 @@
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\bin\Debug\Temp.exe.config
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\bin\Debug\Temp.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\bin\Debug\Temp.pdb
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\obj\Debug\Temp.csprojAssemblyReference.cache
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\obj\Debug\Temp.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\obj\Debug\Temp.pdb

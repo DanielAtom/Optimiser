@@ -1,0 +1,6 @@
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\bin\Release\MUICache.exe.config
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\bin\Release\MUICache.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\bin\Release\MUICache.pdb
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\obj\Release\MUICache.csproj.CoreCompileInputs.cache
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\obj\Release\MUICache.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\obj\Release\MUICache.pdb

@@ -1,0 +1,7 @@
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Prefetch\Prefetch\bin\Release\Prefetch.exe.config
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Prefetch\Prefetch\bin\Release\Prefetch.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Prefetch\Prefetch\bin\Release\Prefetch.pdb
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Prefetch\Prefetch\obj\Release\Prefetch.csprojAssemblyReference.cache
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Prefetch\Prefetch\obj\Release\Prefetch.csproj.CoreCompileInputs.cache
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Prefetch\Prefetch\obj\Release\Prefetch.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Prefetch\Prefetch\obj\Release\Prefetch.pdb

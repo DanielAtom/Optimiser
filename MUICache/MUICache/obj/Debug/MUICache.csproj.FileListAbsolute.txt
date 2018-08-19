@@ -1,0 +1,7 @@
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\bin\Debug\MUICache.exe.config
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\bin\Debug\MUICache.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\bin\Debug\MUICache.pdb
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\obj\Debug\MUICache.csprojAssemblyReference.cache
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\obj\Debug\MUICache.csproj.CoreCompileInputs.cache
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\obj\Debug\MUICache.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\MUICache\MUICache\obj\Debug\MUICache.pdb

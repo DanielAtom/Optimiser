@@ -1,0 +1,6 @@
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\bin\Release\Temp.exe.config
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\bin\Release\Temp.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\bin\Release\Temp.pdb
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\obj\Release\Temp.csproj.CoreCompileInputs.cache
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\obj\Release\Temp.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\Temp\Temp\obj\Release\Temp.pdb

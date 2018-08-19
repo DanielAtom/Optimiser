@@ -1,0 +1,7 @@
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\GoogleChromeCache\GoogleChromeCache\bin\Release\GoogleChromeCache.exe.config
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\GoogleChromeCache\GoogleChromeCache\bin\Release\GoogleChromeCache.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\GoogleChromeCache\GoogleChromeCache\bin\Release\GoogleChromeCache.pdb
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\GoogleChromeCache\GoogleChromeCache\obj\Release\GoogleChromeCache.csproj.CoreCompileInputs.cache
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\GoogleChromeCache\GoogleChromeCache\obj\Release\GoogleChromeCache.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\GoogleChromeCache\GoogleChromeCache\obj\Release\GoogleChromeCache.pdb
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\GoogleChromeCache\GoogleChromeCache\obj\Release\GoogleChromeCache.csprojAssemblyReference.cache

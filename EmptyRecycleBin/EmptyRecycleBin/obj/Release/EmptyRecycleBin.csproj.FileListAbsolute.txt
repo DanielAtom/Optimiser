@@ -1,0 +1,7 @@
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\EmptyRecycleBin\EmptyRecycleBin\bin\Release\EmptyRecycleBin.exe.config
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\EmptyRecycleBin\EmptyRecycleBin\bin\Release\EmptyRecycleBin.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\EmptyRecycleBin\EmptyRecycleBin\bin\Release\EmptyRecycleBin.pdb
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\EmptyRecycleBin\EmptyRecycleBin\obj\Release\EmptyRecycleBin.csprojAssemblyReference.cache
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\EmptyRecycleBin\EmptyRecycleBin\obj\Release\EmptyRecycleBin.csproj.CoreCompileInputs.cache
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\EmptyRecycleBin\EmptyRecycleBin\obj\Release\EmptyRecycleBin.exe
+D:\chestii importante\projects\Big Desktop Apps\Optimiser\EmptyRecycleBin\EmptyRecycleBin\obj\Release\EmptyRecycleBin.pdb
